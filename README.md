@@ -4,6 +4,6 @@ This bot has been created out of boredom in order to automagically watch some ve
 
 > This bot requires some customization to makes it work on different systems.
 
-Required modules: pywin32, mss and pytesseract.
+Required modules: pywin32, mss, PIL and pytesseract.
 
 It also requires [Tesseract](https://github.com/tesseract-ocr/tesseract) binaries to be present.
