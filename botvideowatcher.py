@@ -20,4 +20,4 @@ while 1:
         timer = ocr_scan(output)
         print(timer)
         sleep(timer)
-        avanti()
+        next()
