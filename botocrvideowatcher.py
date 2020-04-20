@@ -1,8 +1,10 @@
-from my_clicker import *
-from my_ocr import *
+from time import sleep
+
 import mss
 import mss.tools
-from time import sleep
+
+from my_clicker import *
+from my_ocr import *
 
 while 1:
     sleep(5)
